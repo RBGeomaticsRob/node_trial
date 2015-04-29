@@ -1,0 +1,22 @@
+{
+  "name": "node_trial",
+  "version": "1.0.0",
+  "description": "Trying out node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node spec/ --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RBGeomaticsRob/node_trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBGeomaticsRob/node_trial/issues"
+  },
+  "homepage": "https://github.com/RBGeomaticsRob/node_trial",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
